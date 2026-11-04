@@ -37,3 +37,9 @@
 产物为 `dist/DesktopToggle.exe`，中间文件位于 `build/`。脚本使用默认安装路径 `C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools`；若安装位置不同，请修改 `build.cmd` 中的 `vcvars64.bat` 路径。
 
 源码位于 `src/main.cpp`，使用原生 Win32 API，无第三方运行时依赖。
+
+## 许可证
+
+Copyright 2026 Ranko-sama
+
+本项目（含 v0.8 发布版本）采用 [Apache License 2.0](LICENSE) 开源协议。
